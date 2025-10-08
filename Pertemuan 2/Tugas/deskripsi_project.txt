@@ -1,0 +1,4 @@
+TUGAS MINGGU KE-2 - FUZZY LOGIC
+Studi kasus: Penentuan kematangan buah pisang menggunakan logika fuzzy.
+Dataset berisi 100 sampel dengan variabel warna, tekstur, dan aroma.
+Hasil akhir berupa nilai kematangan fuzzy dan kategori kematangan.
